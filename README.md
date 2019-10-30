@@ -23,6 +23,6 @@ Using the D3 techniques, created a scatter plot that represents each state with 
 
 * Created and situated the axes and labels to the left and bottom of the chart.
 
-* You'll need to use `python -m http.server` to run the visualization. This hosts the page at `localhost:8000` in your web browser.
+* Need to use `python -m http.server` to run the visualization. This hosts the page at `localhost:8000` in your web browser.
 
 - - -
